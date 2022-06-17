@@ -37,9 +37,9 @@ Follow steps for [IAM data preparation](https://github.com/jpuigcerver/Laia/tree
 Create a file `train.txt` from the transcription `tr.txt` that replaces whitespace with a vertical pipe and contains the path of images and the corresponding characters, e.g.:
 
 ```
-./imgs_proc/a01-000u-00.jpg A|MOVE|to|stop|Mr.|Gaitskell|from
-./imgs_proc/a01-000u-01.jpg nominating|any|more|Labour|life|Peers
-./imgs_proc/a01-000u-02.jpg is|to|be|made|at|a|meeting|of|Labour
+a01-000u-00.jpg A|MOVE|to|stop|Mr.|Gaitskell|from
+a01-000u-01.jpg nominating|any|more|Labour|life|Peers
+a01-000u-02.jpg is|to|be|made|at|a|meeting|of|Labour
 ```
 Also create files `val.txt` and `test.txt` from `htr/lang/word/va.txt` and `htr/lang/word/te.txt`, respectively, following the same format as above. 
 
