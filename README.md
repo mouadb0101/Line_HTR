@@ -7,7 +7,7 @@ This repository is associated with the paper ["gMLP guided Deep Networks Model f
 Please cite the paper if you use this code for academic research:
 
 ```
-
+Bensouilah, M., Taffar, M. & Zennir, M.N. gMLP guided deep networks model for character-based handwritten text transcription. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-15293-1
 ```
 
 # Acknowledgements
