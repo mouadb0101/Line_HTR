@@ -43,7 +43,7 @@ a01-000u-02.jpg is|to|be|made|at|a|meeting|of|Labour
 ```
 Also create files `val.txt` and `test.txt` from `htr/lang/word/va.txt` and `htr/lang/word/te.txt`, respectively, following the same format as above. 
 
-Assume that the working directory is `Attention-OCR`. The data files within `Attention-OCR` should have the structure:
+Assume that the working directory is `Line_HTR`. The data files within `Line_HTR` should have the structure:
 
 - `data`
 - `iam`
